@@ -1,11 +1,11 @@
 {
-  "name": "testCommander",
+  "name": "simple_address_cli",
   "version": "0.0.1",
   "license": "MIT",
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "dev": "bun run index.ts",
+    "dev": "bun run ./src/index.ts",
     "test": "bun test --watch"
   },
   "devDependencies": {
@@ -16,5 +16,12 @@
   },
   "dependencies": {
     "commander": "^12.1.0"
-  }
+  },
+  "keywords": [
+    "eip-4337",
+    "abstract-account",
+    "ethereum",
+    "4337",
+    "smart-contract"
+  ]
 }
