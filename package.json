@@ -19,8 +19,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "commander": "^12.1.0",
-    "consola": "^3.2.3"
+    "commander": "^12.1.0"
   },
   "keywords": [
     "eip-4337",
